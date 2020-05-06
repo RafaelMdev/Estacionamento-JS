@@ -1,5 +1,7 @@
 window.onload = function() {
     
+   mostraPatio();
+    
 
 document.getElementById('formulario').addEventListener('submit', cadastraVeiculo);
 
